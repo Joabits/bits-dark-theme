@@ -1,0 +1,55 @@
+{
+  "name": "bits-dark-theme",
+  "displayName": "Bits Dark",
+  "description": "A clean, comprehensive dark theme with bright text and deep backgrounds. Perfect for all languages: JavaScript, TypeScript, React, Next.js, Flutter, Dart, Python, Java, PHP, and more.",
+  "publisher": "Joabits",
+  "version": "0.0.3",
+  "icon": "icon.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "galleryBanner": {
+    "color": "#060a0f",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "bits",
+    "javascript",
+    "typescript",
+    "react",
+    "nextjs",
+    "flutter",
+    "dart",
+    "python",
+    "java",
+    "php",
+    "c++",
+    "go",
+    "rust",
+    "web development"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joabits/bits-dark-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/Joabits/bits-dark-theme/issues"
+  },
+  "homepage": "https://github.com/Joabits/bits-dark-theme#readme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bits Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bits-Dark-color-theme.json"
+      }
+    ]
+  }
+}
