@@ -1,27 +1,40 @@
-# Bits Dark Theme
+# Bits Theme
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/Joabits.bits-dark-theme?style=flat-square&label=Version)](https://marketplace.visualstudio.com/items?itemName=Joabits.bits-dark-theme)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/Joabits.bits-dark-theme?style=flat-square&label=Downloads)](https://marketplace.visualstudio.com/items?itemName=Joabits.bits-dark-theme)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/Joabits.bits-dark-theme?style=flat-square&label=Rating)](https://marketplace.visualstudio.com/items?itemName=Joabits.bits-dark-theme)
 
-A clean, comprehensive dark theme with bright text and deep backgrounds. Perfect for all languages: JavaScript, TypeScript, React, Next.js, Flutter, Dart, Python, Java, PHP, and more.
+A clean, comprehensive theme with two variants: dark and light. Perfect for all languages: JavaScript, TypeScript, React, Next.js, Flutter, Dart, Python, Java, PHP, and more.
+
+## Themes Included
+
+### 🌙 Bits Theme (Dark)
+- **Deep backgrounds** (#060a0f) for reduced eye strain
+- **Bright, readable text** with carefully selected colors
+- **Vibrant accent colors** (#00cecb cyan theme)
+
+### ☀️ Bits Theme Light
+- **Clean white backgrounds** (#ffffff) for daylight coding
+- **High contrast text** for excellent readability
+- **Professional blue accents** (#0099cc)
 
 ## Features
 
-- **Deep backgrounds** (#060a0f) for reduced eye strain
-- **Bright, readable text** with carefully selected colors
+- **Two complete themes** - dark and light variants
 - **Excellent syntax highlighting** for multiple languages
 - **Consistent color palette** across UI and editor
 - **Optimized for web development** (JavaScript, TypeScript, React, Next.js)
 - **Great support** for Flutter, Dart, Python, Java, PHP, C++, Go, Rust
+- **Complete terminal colors** (16 ANSI colors for both themes)
+- **Git decorations** with intuitive colors
 
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Bits Dark`
+2. Search for `Bits Theme`
 3. Click **Install**
 4. Click **Reload** to reload VS Code
-5. Go to `File > Preferences > Theme > Color Theme` and select **Bits Dark**
+5. Go to `File > Preferences > Theme > Color Theme` and select **Bits Theme**
 
 ## Screenshots
 
@@ -72,4 +85,4 @@ MIT License - feel free to use and modify as needed.
 
 ---
 
-**Enjoy coding with Bits Dark!** ⚡
+**Enjoy coding with Bits Theme!** ⚡
