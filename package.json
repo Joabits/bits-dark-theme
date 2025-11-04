@@ -54,6 +54,16 @@
         "label": "Bits Theme Light",
         "uiTheme": "vs",
         "path": "./themes/Bits-Light-color-theme.json"
+      },
+      {
+        "label": "Bits Theme Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bits-Green-color-theme.json"
+      },
+      {
+        "label": "Bits Theme Green Light",
+        "uiTheme": "vs",
+        "path": "./themes/Bits-Green-Light-color-theme.json"
       }
     ]
   }

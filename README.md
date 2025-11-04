@@ -8,24 +8,35 @@ A clean, comprehensive theme with two variants: dark and light. Perfect for all 
 
 ## Themes Included
 
-### 🌙 Bits Theme (Dark)
+### 🌙 Bits Theme (Dark) - Cyan
 - **Deep backgrounds** (#060a0f) for reduced eye strain
+- **Vibrant cyan accents** (#00cecb)
 - **Bright, readable text** with carefully selected colors
-- **Vibrant accent colors** (#00cecb cyan theme)
 
-### ☀️ Bits Theme Light
+### ☀️ Bits Theme Light - Cyan
 - **Clean white backgrounds** (#ffffff) for daylight coding
+- **Cyan accents** (#00cecb) matching the dark theme
 - **High contrast text** for excellent readability
-- **Professional blue accents** (#0099cc)
+
+### 💚 Bits Theme Green (Dark)
+- **Deep backgrounds** (#060a0f) for reduced eye strain
+- **Neon green accents** (#00FF2F)
+- **Same great syntax highlighting** with green theme
+
+### 🌿 Bits Theme Green Light
+- **Clean white backgrounds** (#ffffff) for daylight coding
+- **Green accents** (#00FF2F) matching the dark theme
+- **High contrast text** for excellent readability
 
 ## Features
 
-- **Two complete themes** - dark and light variants
+- **Four complete themes** - Cyan (dark/light) and Green (dark/light) variants
+- **Two color schemes** - Choose between cyan (#00cecb) or neon green (#00FF2F)
+- **Consistent design** - Same layout and structure across all themes
 - **Excellent syntax highlighting** for multiple languages
-- **Consistent color palette** across UI and editor
 - **Optimized for web development** (JavaScript, TypeScript, React, Next.js)
 - **Great support** for Flutter, Dart, Python, Java, PHP, C++, Go, Rust
-- **Complete terminal colors** (16 ANSI colors for both themes)
+- **Complete terminal colors** (16 ANSI colors for all themes)
 - **Git decorations** with intuitive colors
 
 ## Installation
