@@ -28,10 +28,20 @@ A clean, comprehensive theme with two variants: dark and light. Perfect for all 
 - **Green accents** (#00FF2F) matching the dark theme
 - **High contrast text** for excellent readability
 
+### 💜 Bits Theme Purple (Dark)
+- **Deep backgrounds** (#060a0f) for reduced eye strain
+- **Purple accents** (#B24BF3)
+- **Same great syntax highlighting** with purple theme
+
+### 🟣 Bits Theme Purple Light
+- **Clean white backgrounds** (#ffffff) for daylight coding
+- **Purple accents** (#B24BF3) matching the dark theme
+- **High contrast text** for excellent readability
+
 ## Features
 
-- **Four complete themes** - Cyan (dark/light) and Green (dark/light) variants
-- **Two color schemes** - Choose between cyan (#00cecb) or neon green (#00FF2F)
+- **Six complete themes** - Cyan, Green, and Purple (each with dark/light variants)
+- **Three color schemes** - Choose between cyan (#00cecb), neon green (#00FF2F), or purple (#B24BF3)
 - **Consistent design** - Same layout and structure across all themes
 - **Excellent syntax highlighting** for multiple languages
 - **Optimized for web development** (JavaScript, TypeScript, React, Next.js)

@@ -3,7 +3,7 @@
   "displayName": "Bits Theme",
   "description": "A clean, comprehensive dark theme with bright text and deep backgrounds. Perfect for all languages: JavaScript, TypeScript, React, Next.js, Flutter, Dart, Python, Java, PHP, and more.",
   "publisher": "Joabits",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "icon": "icon.png",
   "license": "MIT",
   "engines": {
@@ -64,6 +64,16 @@
         "label": "Bits Theme Green Light",
         "uiTheme": "vs",
         "path": "./themes/Bits-Green-Light-color-theme.json"
+      },
+      {
+        "label": "Bits Theme Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bits-Purple-color-theme.json"
+      },
+      {
+        "label": "Bits Theme Purple Light",
+        "uiTheme": "vs",
+        "path": "./themes/Bits-Purple-Light-color-theme.json"
       }
     ]
   }
