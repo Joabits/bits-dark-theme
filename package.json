@@ -3,7 +3,7 @@
   "displayName": "Bits Theme",
   "description": "A clean, comprehensive dark theme with bright text and deep backgrounds. Perfect for all languages: JavaScript, TypeScript, React, Next.js, Flutter, Dart, Python, Java, PHP, and more.",
   "publisher": "Joabits",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "icon": "icon.png",
   "license": "MIT",
   "engines": {
