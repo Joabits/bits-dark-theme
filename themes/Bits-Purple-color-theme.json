@@ -63,7 +63,7 @@
 		"tab.activeBackground": "#DADBDB05",
 		"tab.border": "#040207",
 		"tab.inactiveBackground": "#040207",
-		"titleBar.activeBackground": "#02010a",
+		"titleBar.activeBackground": "#040207",
 		"titleBar.inactiveBackground": "#040207",
 		"walkThrough.embeddedEditorBackground": "#040207",
 		"widget.shadow": "#00000050",
